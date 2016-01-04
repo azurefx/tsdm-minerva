@@ -14,4 +14,4 @@
 **minerva config**
 在当前目录生成配置文件模板
  - 依赖项
-libmysql.dll - MySQL 5.6.7附带的Connector/C，置于相同目录
+libmysql.dll - MySQL 5.7附带的Connector/C，置于相同目录
